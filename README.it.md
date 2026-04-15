@@ -204,6 +204,7 @@ Esempio di campione (macOS arm64, misurato il 18 febbraio 2026):
     rustc --version
     cargo --version
     ```
+    In caso di errore "command not found" effettuare il riavvio.
 
 ### Linux / macOS — Opzionale
 
